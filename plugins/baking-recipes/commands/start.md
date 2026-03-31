@@ -1,5 +1,6 @@
 ---
-argument-hint: [recipe name]
+name: start-recipe
+argument-hint: recipe name
 description: Start a recipe step by step, with a timer when necessary
 ---
 

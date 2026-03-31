@@ -1,5 +1,6 @@
 ---
-argument-hint: [recipe name]
+name: find-recipe
+argument-hint: recipe name
 description: Find a baking recipe by name
 ---
 
