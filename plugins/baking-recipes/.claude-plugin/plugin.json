@@ -1,6 +1,6 @@
 {
   "name": "baking-recipes",
-  "description": "",
+  "description": "Step-by-step baking recipe assistant with timer support",
   "version": "1.0.0",
   "author": {
     "name": "Intai",
