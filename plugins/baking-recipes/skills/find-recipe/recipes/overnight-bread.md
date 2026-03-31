@@ -1,0 +1,14 @@
+- Mix 1g of active dry yeast, 1g of bread improver and half tsp of sugar in 74% warm water. Let it rest for 10 minutes until foaming
+- Put 250g of flour (90% of Pams high grade flour and 10% wholemeal) in a bowl with half tsp of salt
+- Pour the yeast water in, mix until there is no dry flour, fold 1 tbs of oil on surface and wait for 20 minutes
+- Stretch on 4 directions and wait for 20 minutes
+- Stretch on 3 directions and wait for 20 minutes
+- Strengthen the surface for about 2 minutes without breaking the surface
+- Dust generously amount of flour all over, cover by a metal container upside down and then rest overnight till 7:30am
+- Spray the top surface with plenty of water, roll the top surface inward and gently stitch on the side to shape like a baguette
+- Dust semolina over a board to slide onto a baking tray lined with baking paper. Tuck in the edges to shape.
+- Preheat oven to 180°C
+- Spray with mist of water and then cover the dough by a metal container upside down and wait for 10 minutes
+- Bake with the metal cover for 15 minutes
+- Remove the metal cover, spray olive oil on top and bake for 15 minutes at 230°C
+- Rest on cooling rack for 5 minutes

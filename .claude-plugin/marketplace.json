@@ -1,0 +1,22 @@
+{
+  "name": "baking-recipes",
+  "owner": {
+    "name": "Intai",
+    "email": "intai.hg@gmail.com"
+  },
+  "metadata": {
+    "description": "A collection of plugins for baking enthusiasts"
+  },
+  "plugins": [
+    {
+      "name": "baking-recipes",
+      "source": "./plugins/baking-recipes",
+      "description": "Step-by-step baking recipe assistant with timer support",
+      "homepage": "https://github.com/Intai/baking-recipes/blob/main/README.md",
+      "repository": "https://github.com/Intai/baking-recipes",
+      "license": "MIT",
+      "category": "lifestyle",
+      "keywords": ["baking", "recipes", "food", "timer"]
+    }
+  ]
+}
