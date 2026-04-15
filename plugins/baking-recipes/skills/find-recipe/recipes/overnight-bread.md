@@ -1,6 +1,6 @@
-- Mix 1g of active dry yeast, 1g of bread improver and half tsp of sugar in 74% warm water. Let it rest for 10 minutes until foaming
-- Put 250g of flour (90% of Pams high grade flour and 10% wholemeal) in a bowl with half tsp of salt
-- Pour the yeast water in, mix until there is no dry flour, fold 1 tbs of oil on surface and wait for 20 minutes
+- Mix 1g of active dry yeast, 1g of bread improver and half teaspoon of sugar in 185g(74%) warm water. Let it rest for 10 minutes until foaming
+- Put 250g of flour (90% of Pams high grade flour and 10% wholemeal) in a bowl with half teaspoon of salt
+- Pour the yeast water in, mix until there is no dry flour, fold 1 tablespoon of oil on surface and wait for 20 minutes
 - Stretch on 4 directions and wait for 20 minutes
 - Stretch on 3 directions and wait for 20 minutes
 - Strengthen the surface for about 2 minutes without breaking the surface
