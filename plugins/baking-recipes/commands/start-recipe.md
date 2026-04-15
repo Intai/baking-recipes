@@ -2,6 +2,7 @@
 name: start-recipe
 argument-hint: recipe name
 description: Start a recipe step by step, with a timer when necessary
+model: haiku
 ---
 
 Load the `baking-recipes:find-recipe` skill using the Skill tool to search for a recipe by name "$ARGUMENTS".

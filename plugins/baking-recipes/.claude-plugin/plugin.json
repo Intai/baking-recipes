@@ -1,7 +1,7 @@
 {
   "name": "baking-recipes",
   "description": "Step-by-step baking recipe assistant with timer support",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "Intai",
     "email": "intai.hg@gmail.com"
