@@ -4,7 +4,7 @@ A Claude Code plugin for following baking recipes step by step.
 
 ## Usage
 
-Use the [`/start-recipe`](https://raw.githubusercontent.com/Intai/baking-recipes/refs/heads/main/plugins/baking-recipes/commands/start-recipe.md) command or copy-n-paste this entire README into AI Chat.
+Use the [`/start-recipe`](https://raw.githubusercontent.com/Intai/baking-recipes/refs/heads/main/plugins/baking-recipes/commands/start-recipe.md) command or copy-n-paste this entire [README](https://raw.githubusercontent.com/Intai/baking-recipes/refs/heads/main/README.md) into AI Chat.
 
 ## Recipes
 
