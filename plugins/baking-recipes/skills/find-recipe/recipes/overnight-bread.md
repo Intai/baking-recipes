@@ -1,3 +1,11 @@
+---
+type: Recipe
+title: Overnight Bread
+description: Slow-fermented loaf shaped like a baguette, rested overnight and baked under a metal cover.
+resource: https://raw.githubusercontent.com/Intai/baking-recipes/refs/heads/main/plugins/baking-recipes/skills/find-recipe/recipes/overnight-bread.md
+tags: [bread, baguette, yeast, overnight, slow-fermentation, wholemeal, oven]
+---
+
 - Mix 1g of active dry yeast, 1g of bread improver and half teaspoon of sugar in 185g(74%) warm water. Let it rest for 10 minutes until foaming
 - Put 250g of flour (90% of Pams high grade flour and 10% wholemeal) in a bowl with half teaspoon of salt
 - Pour the yeast water in, mix until there is no dry flour, fold 1 tablespoon of oil on surface and wait for 20 minutes

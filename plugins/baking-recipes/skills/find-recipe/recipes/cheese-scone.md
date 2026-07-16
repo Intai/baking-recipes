@@ -1,3 +1,11 @@
+---
+type: Recipe
+title: Cheese Scone
+description: Savoury scones with onion and cheese, baked in about 15 minutes.
+resource: https://raw.githubusercontent.com/Intai/baking-recipes/refs/heads/main/plugins/baking-recipes/skills/find-recipe/recipes/cheese-scone.md
+tags: [scone, savoury, cheese, onion, quick, oven, breakfast]
+---
+
 - Dice quarter onion
 - Whip an egg
 - Preheat oven to 230°C with oven tray
